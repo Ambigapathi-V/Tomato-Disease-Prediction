@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+trainings/tomato
 develop-eggs/
 dist/
 downloads/
