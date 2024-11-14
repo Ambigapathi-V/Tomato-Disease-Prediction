@@ -1,0 +1,22 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  input_path: data/tomato
+  output_path: artifacts/data_ingestion/data
+  image_size: 256
+  batch_size: 32
+  channels: 3
+  epochs: 25
+
+model_trainer:
+  root_dir: artifacts/model_training
+  model_name: tomato_classifier
+  input_path: artifacts/data_ingestion/data
+  output_path:  artifacts/model_training/model
+  image_size: 256
+  batch_size: 32
+  channels: 3
+  epochs: 25
+
+

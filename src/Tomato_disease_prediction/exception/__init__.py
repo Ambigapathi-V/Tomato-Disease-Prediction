@@ -1,5 +1,5 @@
 import sys
-from src.Credit_Risk_Model.logger import logger
+from src.Tomato_disease_prediction.logger import logger
 
 def error_message_detail(error, error_detail:sys):
     """

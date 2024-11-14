@@ -5,6 +5,21 @@ from src.Tomato_disease_prediction.exception import CustomException
 
 @dataclass
 class DataIngestionConfig:
-    input_directory: Path
-    output_directory: Path
+    input_path: Path
+    output_path: Path
+    image_size : int
+    batch_size: int
+
+@dataclass
+class ModelTrainerConfig:
+    root_dir : Path
+    model_name : str
+    input_path : Path
+    output_path : Path
+    image_size : int
+    batch_size : int
+    epochs : int
+    channels: int
+    
+
     
