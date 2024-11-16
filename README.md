@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-![](https://github.com/pragyy/datascience-readme-template/blob/main/Headerheader.jpg)
+![](https://github.com/Ambigapathi-V/Tomato-Disease-Prediction/blob/main/img/Tomato%20Diseases.png)
 
 # Tomato Disease Prediction
 
@@ -30,12 +29,12 @@ The **Tomato Disease Prediction project** is a machine learning solution aimed a
 
 ## Demo
 
-[App link](https://github.com/Ambigapathi-V/Tomato-Disease-Prediction/tree/main/app)
+[App link](https://ambigapathi-v-tomato-disease-prediction-app-iteodd.streamlit.app/)
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Ambigapathi-V/Tomato-Disease-Prediction/blob/main/T.png)
 
 # Installation and Setup
 
@@ -184,6 +183,7 @@ Here is the basic suggested skeleton for your data science repo (you can structu
 
 6. **Classification Report**:  
    The classification report provides a summary of the precision, recall, F1-score, and support for each class. It is a comprehensive evaluation tool for multi-class classification problems.
+![](https://github.com/Ambigapathi-V/Tomato-Disease-Prediction/blob/main/img/Training%20and%20Validation%20loss%20and%20accuracy.png)
 
    
 
